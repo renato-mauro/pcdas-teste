@@ -1,0 +1,22 @@
+{
+  "name": "pcdas-teste",
+  "version": "1.0.0",
+  "description": "Teste do PCDAS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/renato-mauro/pcdas-teste.git"
+  },
+  "author": "Renato Mauro",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/renato-mauro/pcdas-teste/issues"
+  },
+  "homepage": "https://github.com/renato-mauro/pcdas-teste#readme",
+  "dependencies": {
+    "@elastic/elasticsearch": "^7.10.0"
+  }
+}
